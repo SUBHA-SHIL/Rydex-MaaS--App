@@ -18,7 +18,7 @@
       },
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyDUr0s9iC64rqpVYs3922WW5mDiLUjPD8k"
+          "apiKey": "[Enter the API key here or in your .env]"
         }
       },
       "edgeToEdgeEnabled": true,
